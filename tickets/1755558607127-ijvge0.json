@@ -1,0 +1,49 @@
+{
+  "name": "Shadowcats vs River City Rockets — Seat 112 D 4",
+  "symbol": "SHCAT",
+  "description": "2025-04-15 • 13:00 • Shadowcats Stadium",
+  "image": "https://placehold.co/600x600/orange/white?text=Sherman+Shadowcats",
+  "attributes": [
+    {
+      "trait_type": "Opponent",
+      "value": "River City Rockets"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Reserved"
+    },
+    {
+      "trait_type": "Section",
+      "value": "112"
+    },
+    {
+      "trait_type": "Row",
+      "value": "D"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "4"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-04-15"
+    },
+    {
+      "trait_type": "Time",
+      "value": "13:00"
+    },
+    {
+      "trait_type": "Stadium",
+      "value": "Shadowcats Stadium"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://placehold.co/600x600/orange/white?text=Sherman+Shadowcats",
+        "type": "image/png"
+      }
+    ]
+  }
+}
