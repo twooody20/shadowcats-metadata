@@ -2,7 +2,7 @@
   "name": "ShadowCats Ticket",
   "symbol": "SHCAT",
   "description": "Admit One — Sherman ShadowCats",
-  "image": "<PASTE_IMAGE_RAW_URL_HERE>",
+  "image": "https://raw.githubusercontent.com/twooody20/shadowcats-metadata/refs/heads/main/Tickets.png",
   "attributes": [
     { "trait_type": "Section", "value": "Home" },
     { "trait_type": "Row", "value": "A" }
@@ -10,7 +10,7 @@
   "properties": {
     "files": [
       {
-        "uri": "<PASTE_IMAGE_RAW_URL_HERE>",
+        "uri": "https://raw.githubusercontent.com/twooody20/shadowcats-metadata/refs/heads/main/Tickets.png",
         "type": "image/png"
       }
     ],
