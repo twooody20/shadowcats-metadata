@@ -1,0 +1,45 @@
+{
+  "name": "Sherman Shadowcats vs Capital City Cards GA (GA)",
+  "symbol": "SHCAT",
+  "description": "NFT ticket for Shadowcats vs Capital City Cards on 2025-04-30 at 14:00 — General Admission.",
+  "image": "https://raw.githubusercontent.com/twooody20/shadowcats-metadata/main/image/ticket-1755561390433-ex9mg8.png",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "Sherman Shadowcats"
+    },
+    {
+      "trait_type": "Opponent",
+      "value": "Capital City Cards"
+    },
+    {
+      "trait_type": "Date",
+      "value": "2025-04-30"
+    },
+    {
+      "trait_type": "Time",
+      "value": "14:00"
+    },
+    {
+      "trait_type": "Stadium",
+      "value": "Shadowcats Stadium"
+    },
+    {
+      "trait_type": "Ticket Type",
+      "value": "GA"
+    },
+    {
+      "trait_type": "Admission",
+      "value": "General"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/twooody20/shadowcats-metadata/main/image/ticket-1755561390433-ex9mg8.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
