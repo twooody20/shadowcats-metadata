@@ -1,0 +1,28 @@
+{
+  "name": "Shadowcats vs Metro City Bears 1",
+  "symbol": "SHCAT",
+  "description": "Ticket for 4/22/2025 7:00 PM at Shadowcats Stadium.",
+  "image": "https://placehold.co/800x800/png?text=Shadowcats%20vs%20Metro%20City%20Bears%0A4%2F22%2F2025%207%3A00%20PM%0ASeats%3A%20112-D-5%2C%20112-E-5",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Opponent",
+      "value": "Metro City Bears"
+    },
+    {
+      "trait_type": "Date",
+      "value": "4/22/2025"
+    },
+    {
+      "trait_type": "Time",
+      "value": "7:00 PM"
+    },
+    {
+      "trait_type": "Seats",
+      "value": "112-D-5, 112-E-5"
+    }
+  ],
+  "properties": {
+    "category": "image"
+  }
+}
